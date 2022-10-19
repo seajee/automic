@@ -1,3 +1,5 @@
+// Credits to https://github.com/uchood/MicrophoneVolumeAdjust
+
 #ifndef _MixerMicrophoneValue_H_
 #define _MixerMicrophoneValue_H_
 #pragma once
